@@ -13,7 +13,7 @@ if (header) {
 }
 
 // Array of fun colors to cycle through
-const colors = ['#ffe6e6', '#e6f3ff', '#f0e6ff', '#e6ffe6', '#fff9e6'];
+const colors = ['#360c0c', '#1a3045', '#2b1b44', '#e6ffe6', '#fff9e6'];
 let currentColorIndex = 0;
 
 // What happens when you click the button
