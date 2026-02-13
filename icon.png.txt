@@ -1,0 +1,5 @@
+Note: You'll need to add your own icon.png file (any small PNG image will work)
+For now, you can use any 128x128 pixel image, or download a free icon from sites like:
+- flaticon.com
+- icons8.com
+Just save it as "icon.png" in this folder
